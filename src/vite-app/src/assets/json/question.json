@@ -1,0 +1,26 @@
+[
+    {
+        "japanese": "これはテストです",
+        "alphabet": "korehatesutodesu"
+    },
+    {
+        "japanese": "おはようございます",
+        "alphabet": "ohayougozaimasu"
+    },
+    {
+        "japanese": "こんばんは",
+        "alphabet": "konnbannha"
+    },
+    {
+        "japanese": "こんにちは",
+        "alphabet": "konnnitiha"
+    },
+    {
+        "japanese": "犬も歩けば棒に当たる",
+        "alphabet": "inumoarukebabouniataru"
+    },
+    {
+        "japanese": "猿も木から落ちる",
+        "alphabet": "sarumokikaraotiru"
+    }
+]
